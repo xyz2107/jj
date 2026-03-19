@@ -1,0 +1,9 @@
+{
+  "wkClientId": "WK_f0ae1264-d83c-4bd1-9d52-0472d48a266e",
+  "ssoIssuer": "https://konta1.ksdo.gov.pl",
+  "ssoClientId": "pass",
+  "ssoDisabled": false,
+  "terytAddress": "https://teryt.ksdo.gov.pl",
+  "dwAddress": "https://dw.ksdo.gov.pl",
+  "recaptchaKey": "6LcAGXUsAAAAAEYIYXTdNvUaFDOIvfl7kwaT2O7d"
+}
